@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">odhackathon_metro_tokyo_service</string>
+    <string name="title_activity_main">odhackathon_metro_tokyo_service</string>
+    <string name="package_name">odhackathon_metro_tokyo_service.ionic.io</string>
+    <string name="custom_url_scheme">odhackathon_metro_tokyo_service.ionic.io</string>
+</resources>
