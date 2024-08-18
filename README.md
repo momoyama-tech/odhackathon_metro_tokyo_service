@@ -9,6 +9,8 @@ npm i
 npm run dev
 # macのみ iphone
 npx cap run ios (別のターミナル)
+# android シミュレーター
+npx cap run android (別のターミナル)
 ```
 
 # 以下元々の情報
