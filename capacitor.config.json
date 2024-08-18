@@ -1,0 +1,9 @@
+{
+	"webDir": "build",
+	"appId": "odhackathon_metro_tokyo_service.ionic.io",
+	"appName": "odhackathon_metro_tokyo_service",
+	"_server": {
+		"url": "http://192.168.0.184:5173/",
+		"cleartext": true
+	}
+}
