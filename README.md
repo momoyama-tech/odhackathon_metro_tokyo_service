@@ -1,4 +1,8 @@
-# create-svelte
+# odhackathon_metro_tokyo_service
+
+# 資料
+
+- https://docs.google.com/spreadsheets/d/1oMsow40EWqibW40t2rS6KyfIuFwJxdI1tneNZ1yRgG8/edit?gid=787165291#gid=787165291
 
 # 開発方法
 
